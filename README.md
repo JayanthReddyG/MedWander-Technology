@@ -76,6 +76,10 @@ After following installation steps
 
 
 
+https://github.com/JayanthReddyG/MedWander-Technology/assets/117906963/5d16cdce-a5fa-4120-b16b-e81506ef2c41
+
+
+
 # Author
 
 [G Jayanth Reddy ](https://github.com/JayanthReddyG)
